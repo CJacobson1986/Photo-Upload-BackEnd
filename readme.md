@@ -26,6 +26,7 @@ To migrate:
 
 ## Screenshot
 ![alt text](http://h4z.it/Image/f9d482_d-Screenshot.PNG "Php MyAdmin")
+![alt text](http://h4z.it/Image/f8df7e_-Screenshot2.PNG "Postman")
 
 
 ## Author
